@@ -12,6 +12,19 @@
 ! Please report any domains you wish to block/unblock via 'Issues'.  
 ! Licence: MIT License  
 !--------------------------------------------------------------------------------------
+||xxxindianstories.com^
+||literotica.com^
+||shedoesthecity.com^
+||https://freesexkahani.in/^
+||https://vasnastories.com/^
+||wattpad.com^
+||badgirlsbible.com^
+||nkitt.com^
+||tiffanyreisz.com^
+||buzzfeed.com^
+||dreame.com^
+||lushstories.com^
+||hamarivasna.net^
 ||4chan.org^
 ||101.99.90.156^
 ||111.90.158.165^
