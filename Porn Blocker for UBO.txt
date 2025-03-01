@@ -1,9 +1,7 @@
-! Author: Kunal
-! Checksum: 1B2M2Y8AsgTpgAmY7PhCfg
+! Title: Kunal's NSFW Blocklist
 ! Description: A comprehensive blocklist for NSFW content, including adult sites, explicit material, and unwanted domains.
 ! Expires: updates frequency
 ! Last modified: 27-02-25
-! Title: Kunal's NSFW Blocklist
 ! Version: 2.0.0
 
 ||01net.com^
